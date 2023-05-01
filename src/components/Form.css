@@ -1,0 +1,12 @@
+.input-url{
+  @apply
+  py-4 px-8 rounded-full shadow
+  w-96
+}
+
+.btn{
+  @apply
+  bg-radical-red-500
+  py-4 px-8 rounded-full shadow
+  text-white
+}
