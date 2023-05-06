@@ -1,12 +1,12 @@
-.input-url{
-  @apply
-  py-4 px-8 rounded-full shadow
-  w-96
+.input-url {
+    @apply py-4 px-8 shadow rounded-s-full flex-1;
 }
-
-.btn{
-  @apply
-  bg-radical-red-500
-  py-4 px-8 rounded-full shadow
-  text-white
+.btn {
+    @apply bg-radical-red-500 py-4 px-8 rounded-full shadow outline-none text-white;
+}
+.format{
+    @apply bg-radical-red-400 py-4 pl-8 pr-4 shadow outline-none text-white;
+}
+.redondeo{
+    @apply bg-radical-red-400 w-8 rounded-e-full shadow;
 }
